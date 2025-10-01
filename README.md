@@ -1,7 +1,12 @@
-# Java-trial
+# Java Exercises
 
 ## TODO
+Each of these classes have instructions in them using TODO marker in the comments.
 
-Java Class path error
-
-Why does clicking the run button not work, but the terminal does?
+Go through them in the following order.
+- SpudYouLove.java
+- SpudYouLove2.java (extension to the previous task)
+- LoopThemUp.java
+- Palindrome.java
+- PalindromeWithAnEdge.java (extension to the previous task)
+- NaturalToBinary.java
